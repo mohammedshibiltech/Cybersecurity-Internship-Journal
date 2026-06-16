@@ -1,4 +1,4 @@
-# Cybersecurity Internship Journal
+# VAPT Internship Journal
 
 ## About
 
