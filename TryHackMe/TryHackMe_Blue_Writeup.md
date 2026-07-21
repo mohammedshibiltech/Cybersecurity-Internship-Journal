@@ -116,3 +116,5 @@ Several technical hurdles were encountered and overcome during this engagement:
 * **Exploitation Nuances:** Identifying a vulnerability does not guarantee instant success. Payload tuning, specifically regarding network interfaces and egress ports, is often required.
 * **Target Stability:** Older vulnerabilities like MS17-010 can heavily impact system stability; limiting payload execution attempts prevents service crashes.
 * **Post-Exploitation Efficiency:** Leveraging framework capabilities—such as migrating to SYSTEM processes for stability and utilizing automated search features—drastically streamlines the post-exploitation phase.
+
+testing word phrase
